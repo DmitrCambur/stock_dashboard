@@ -1,6 +1,7 @@
 # Stock API Dashboard
 
 Welcome to the Stock API Dashboard, a sleek and intuitive platform for visualizing stock data using the power of ReactJS and the elegance of Tailwind CSS that I chose to create for my first Expert Lab project.
+Follow my Trello Board to have some insight on my progress: https://trello.com/invite/b/Zs6AMdpr/ATTIb766fa4ed325103422af5c84b53e6da421A51910/dmitrcambur
 
 ## Features 📈
 
